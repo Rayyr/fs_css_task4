@@ -1,0 +1,52 @@
+*{
+    margin:0;
+    padding:0;
+     
+}
+
+.parent{
+    width:100%;
+ 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    row-gap:30px;
+    column-gap: 20px;
+   
+     
+  
+}
+
+.main{
+    background-color: gainsboro;
+    height: 750px;;
+}
+
+.image{
+
+    width:23%;
+   
+   
+}
+
+img{
+    width: 100%;
+}
+
+.last{
+    margin-right: 150px;
+}
+
+.first{
+    margin-left: 150px;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    margin-bottom: 40px;
+}
